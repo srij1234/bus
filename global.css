@@ -1,0 +1,15 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inder: Inder;
+
+  /* font sizes */
+  --font-size-base: 14px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-md: 7.78px;
+}
